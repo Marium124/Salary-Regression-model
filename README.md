@@ -17,9 +17,3 @@ This Streamlit app trains an Artificial Neural Network (ANN) to predict **Salary
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Deploy on Streamlit Cloud
-1. Push these files to a **public GitHub repo**.
-2. Go to https://share.streamlit.io, click **Deploy an app**.
-3. Select your repo, branch (main), file path = `app.py`.
-4. Deploy → you’ll get a public app URL.
